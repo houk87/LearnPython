@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*- gto git
+# -*- coding: utf-8 -*- gto git 
+# edited on GitHub website
 
 import simple_draw as sd
 
